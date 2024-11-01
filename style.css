@@ -1,0 +1,28 @@
+tr.sr-alternate {
+	background-color: #eee;
+}
+
+tr.sr-title {
+	padding-right: 20px;
+	text-align: right;
+}
+
+.sr-review-title {
+	padding-right: 20px;
+	text-align: right;
+}
+
+td.sr-title {
+	padding-right: 20px;
+	text-align: right;
+}
+
+.wrap {
+	padding-bottom: 20px;
+}
+
+.sr-heading {
+	padding-top: 25px;
+	padding-bottom: 25px;
+	font-size: 1.4em;
+}
